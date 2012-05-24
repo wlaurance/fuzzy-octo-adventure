@@ -1,0 +1,15 @@
+{
+	"title" : "Introduction",
+	"date" : "5/24/2012",
+	"author" : "wlaurance"
+}
+
+My name is Will Laurance and I am a software developer. I have worked on
+many interesting projects such as Mobile Ordering Apps, Rails apps like
+http://www.osprey-watch.org and my old blog. I enjoy coding in all
+languages, however my main focus is javascript and coffeescript.
+
+Outside of coding, I enjoy riding dirt bikes, gardening, and reading
+iteresting books. 
+
+![](http://www.gravatar.com/avatar/a45bb5be65f2d59d813697825cb48194.png)
