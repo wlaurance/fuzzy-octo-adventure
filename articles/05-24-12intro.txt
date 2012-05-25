@@ -8,9 +8,6 @@ My name is Will Laurance and I am a software developer. I have worked on
 many interesting projects such as Mobile Ordering Apps, Rails apps like
 http://www.osprey-watch.org and my old blog. I enjoy coding in all
 languages, however my main focus is javascript and coffeescript.
-
 Outside of coding, I enjoy riding dirt bikes, gardening, and reading
-interesting books. 
-
-I enjoy contributing to open source projects and creating node modules
-on github. [Fork me here](https://github.com/wlaurance)!
+interesting books. I also contribute to open source projects and create
+node modules and other interesting things on github. [Fork me here](https://github.com/wlaurance)!
