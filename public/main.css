@@ -1,6 +1,7 @@
 .article {
 	margin-right: auto;
 	margin-left: auto;
+  background-color:#FFFFFF;
 	width: 840px;
   padding:20px;
 }
