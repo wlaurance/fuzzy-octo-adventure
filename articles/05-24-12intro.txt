@@ -1,7 +1,7 @@
 {
-	"title" : "Introduction",
-	"date" : "5/24/2012",
-	"author" : "wlaurance"
+  "title" : "Introduction", 
+  "date" : "5/24/2012",
+  "author" : "wlaurance"
 }
 
 My name is Will Laurance and I am a software developer. I have worked on

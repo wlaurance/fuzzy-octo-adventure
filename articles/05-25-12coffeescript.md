@@ -1,6 +1,6 @@
 {
 	"title" : "What I love about CoffeeScript",
-	"date" : "5/25/2012",
+	"date" : "5/25/2012"
 }
 
 I enjoy writing CoffeeScript because it is clean and quick. Indented
