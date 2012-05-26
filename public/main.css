@@ -66,6 +66,10 @@ body {
 	width: 900px;
 }
 
+.topbar a {
+  color: #5CB55C;
+}
+
 a {
 	text-decoration: none;
 	color: #8a8a8a;
