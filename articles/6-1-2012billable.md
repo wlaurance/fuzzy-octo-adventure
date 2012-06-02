@@ -28,3 +28,5 @@ Hustle and Flow
 ---------------
 
 WIP, Comments welcome for ideal workflow git time tracking
+because I am not quite sure the way I want to do this. I guess the time
+tracking strategy would vary between workflow types. 
