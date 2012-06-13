@@ -38,6 +38,16 @@ I hope to add support for [ditaa](http://ditaa.org/ditaa/) soon to my
 glog and I will be able to show you a cool ascii text graph for my
 workflow.
 
+++Ditaa++
+     +--------+
+     | c897   +
+     |Future  |
+     |Git     |
+     |Diagram |
+     |     {d}| 
+     +---+----+  
+--Ditaa--
+
 ### Example project
 
 In Restaurant App I have one repository that houses code for all of my
