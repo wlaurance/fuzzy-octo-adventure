@@ -100,3 +100,12 @@ a:hover {
 .next_page, .footer {
 	text-align: center;
 }
+
+.add {
+  background-color:
+  margin-right: auto;
+  margin-left: auto;
+  text-align: center;
+	color: #a5a5a5;
+	text-decoration: none;
+}
