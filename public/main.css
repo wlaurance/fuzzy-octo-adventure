@@ -97,6 +97,10 @@ a:hover {
 	text-decoration: none;
 }
 
+.footer a {
+	color: #a5a5a5;
+	text-decoration: none;
+}
 .next_page, .footer {
 	text-align: center;
   margin-left:auto;
