@@ -27,56 +27,27 @@ projects and github for others. Both assembla and github provide means
 to call webhooks. Ideally I want to "build" a system using existing
 components rather than building a new system from scratch.
 
-Hustle and Flow
----------------
-
-WIP, Comments welcome for ideal workflow git time tracking
-because I am not quite sure the way I want to do this. I guess the time
-tracking strategy would vary between workflow types. 
-
-I hope to add support for [ditaa](http://ditaa.org/ditaa/) soon to my
-glog and I will be able to show you a cool ascii text graph for my
-workflow.
-
-++Ditaa++
-     +--------+
-     | c897   +
-     |Future  |
-     |Git     |
-     |Diagram |
-     |     {d}| 
-     +---+----+  
---Ditaa--
 
 ### Example project
 
-In Restaurant App I have one repository that houses code for all of my
-client projects. Each client has their own branch and all of the shared
-code is in master. Client branches typically house specific assets to
-their branding.
+++Ditaa++
 
-When working on a small feature needed for one client, I will typically
-stay in the client branch and make the necessary changes, keeping any
-client specific changes in different commits than any shared code.
+--Ditaa--
 
-I then checkout master and cherry-pick those shared code commits, then
-merge my master to other client branches, so everyone is up to date. On
-the reverse, when coding up major features and fixes, I am checked out
-on master, and will merge the patches to my client branches.
+In restaurant app, all client branches share one common repo that
+contains the base restaurant functionalities. Each client repo has its
+own local copy of the restaurant repo but any changes must be compatible
+with all clients. To acheive this, I use configuration objects in the
+client repositories which restaurant repo reads and decides what to do.
+There is even the possibility of just handing app control over to the
+client repo by overriding a class or what not.
 
-So theres is a lot of branch switching, picking, merging and squashing
-going on. It would be nice if I could just have a system so intelligent
-that it knows exactly how much time I have worked on a certain project.
+My time is mainly spent in the client repos and not a standalone version
+of restaurant app. Thus the tool would need to be able to handle
+multiple repositories for the same project and have a pause button of
+sorts unless I assume time between commits is 100% put towards the diff
+of said commit.
 
-Since that is not feasible, I would like to have a sprint type method. I
-start by pressing a start timer. The first commit after the timer will
-have the difference of commit time and timer as its running time. Each
-subsequent commit will just have the difference of the previous commit
-as its time.
 
-This type of system assumes that I am indeed working a project between
-each commit continously. This is generally the case, but there would
-need to be a *pause* button so I could eat lunch or something.
 
-By tying commit messages to my tracked time, I believe I can get a much
-better picture of what I am spending my time on.
+TBC
