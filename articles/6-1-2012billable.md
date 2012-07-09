@@ -31,6 +31,22 @@ components rather than building a new system from scratch.
 ### Example project
 
 ++Ditaa++
+      +--------+  +-----------+    +-------+
+      | c897   +  |   c888    |    | cRED  |
+      | Client |  | Restaurant|    |  OLO  |
+      | Repo   |->| Repo      |--->|  SDK  | 
+      |        |  |           |    |  {c}  |
+      |     {d}|  |           |    +-------+
+      +---+----+  +-----------+
+                      ^ 
+                      |
+                  +--------+
+                  | c897   +
+                  | Client |
+                  | Repo   |
+                  |        |
+                  |     {d}|
+                  +---+----+
 
 --Ditaa--
 
