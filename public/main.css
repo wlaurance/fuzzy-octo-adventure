@@ -89,14 +89,19 @@ a:hover {
 	height: 50px;
 	margin-right: auto;
 	margin-left: auto;
-	width: 200px;
+	width: 600px;
+}
+
+.footer {
+	color: #a5a5a5;
+	text-decoration: none;
 }
 
 .footer a {
 	color: #a5a5a5;
 	text-decoration: none;
 }
-
 .next_page, .footer {
 	text-align: center;
 }
+
