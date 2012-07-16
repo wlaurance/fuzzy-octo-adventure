@@ -1,0 +1,39 @@
+{"title":"Will I never be a good node person if I only write in CoffeeScript?","date":"7-16-2012","author":"wlaurance"}
+
+Who knows. According to [this article](http://procbits.com/2012/05/18/why-do-all-the-great-node-js-developers-hate-coffeescript/)
+ the top node.js maintainers and package contributors do not have a
+single package written in CoffeeScript. I believe this is true for the
+following reasons.
+
+1. The end language of a node package is javascript. 
+
+2. By writing in only javascript, collaboration does not require a
+   uniform style of coding.
+
+3. These guys and gals probably began writing and maintaing packages
+   prior the rise of CoffeeScript.
+
+4. They perhaps prefer to write the exact code that is interpreted
+   rather than letting CoffeeScript interpret their code to be
+interpreted. ( a lot of interpretation )
+
+5. Perhaps the addition braces, (this), and other coffee generated bits
+   slow down the code. No bench marking has been done to support this
+but I would think the difference would be micro seconds if any. 
+
+6. It is node.js, not node.coffee.
+
+Imho, number 2 causes the biggest hurdle for coffeescript to really
+become mainstream. If I have a coffeescript package in github I might
+only have the coffeescript in git. Thus a dev would have to alter the
+coffeescript to change anything in the github project. Even if my repo
+had the js versioned, the dev would need to make changes to the js and
+the coffeescript to make any real changes.
+
+Thus, it seems fair to have the package in javascript so everyone has an
+equal shot at contributing. A dev could still write in coffeescript and
+copy the relavent bits of code to the versioned js. It is an intersting
+issue but I think point 1. is the answer to the debate. 
+
+Above all, it will always be the javascript code piping into the node
+binary.  
