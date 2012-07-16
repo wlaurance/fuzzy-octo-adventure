@@ -1,4 +1,4 @@
-{"title":"Will I never be a good node person if I only write in CoffeeScript?","date":"7-16-2012","author":"wlaurance"}
+{"title":"Will I never be a good node person if I only write in CoffeeScript","date":"7-16-2012","author":"wlaurance"}
 
 Who knows. According to [this article](http://procbits.com/2012/05/18/why-do-all-the-great-node-js-developers-hate-coffeescript/)
  the top node.js maintainers and package contributors do not have a
