@@ -30,3 +30,5 @@ and uname -a
 ```
 Linux icky 3.2.0-27-generic-pae #43-Ubuntu SMP Fri Jul 6 15:06:05 UTC 2012 i686 i686 i386 GNU/Linux
 ```
+The only issue with using open-jdk 7, is the final zip check will hang.
+But you can safely ctrl c after a few seconds.
