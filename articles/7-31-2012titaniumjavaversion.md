@@ -32,3 +32,10 @@ Linux icky 3.2.0-27-generic-pae #43-Ubuntu SMP Fri Jul 6 15:06:05 UTC 2012 i686 
 ```
 The only issue with using open-jdk 7, is the final zip check will hang.
 But you can safely ctrl c after a few seconds.
+
+I am also able to install using oracle 7 java.
+
+I followed this
+[website](http://www.webupd8.org/2012/01/install-oracle-java-jdk-7-in-ubuntu-via.html)
+to add a ppa which allowed me to run an install script for
+oracle-java-7.
