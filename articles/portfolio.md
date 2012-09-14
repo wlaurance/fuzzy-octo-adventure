@@ -25,8 +25,7 @@ Map](https://lh4.ggpht.com/5xsIoE2gOeEydt2wbqCdQ0IKkQU1rYT2VupvjfirajIN3kWGpCH_u
 
 ### [Osprey Watch](http://www.osprey-watch.org/)
 
-  ![Osprey
-Flying](http://farm8.staticflickr.com/7016/6647083819_6f5a95619f_b.jpg)
+  ![Osprey Nesting](http://c.osprey-watch.org/assets/slide-3.jpg)
 
 
 ## Research
