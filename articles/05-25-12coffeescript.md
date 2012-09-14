@@ -31,29 +31,26 @@ errors could never result in death, like the web, mobile platforms, etc.
 As you probably know JavaScript is **not a static typed language**. Thus
 I would happily freak out if the pilot announced they have upgraded
 their auto pilot software to run on the latest version of JavaScript. 
-(First of all, that doesn't make much sense. Second 
-
-![It's MuthaFuckin JavaScript](http://distilleryimage3.instagram.com/023be5c0a69c11e1a39b1231381b7ba1_7.jpg)
-
-)
 Joking aside, there are ways to reduce the chances of type errors and
 type coercion in JavaScript.
 
-`      var j = 1;
+
+```
+      var j = 1;
       var p = '1';
       p == j //true
       p != j //false
       
       p === j //false
       p !== j //true
-`
+```
 Or the equivalent CoffeeScript
-
-`     j = 1
-      p = '1'
-      p is j // p === j -> false
-      p isnt j // p !== j -> true
-`
+```
+     j = 1
+     p = '1'
+     p is j // p === j -> false
+     p isnt j // p !== j -> true
+```
 
 CoffeeScript will not let us even write the type coercive boolean
 operators != and ==. This is another great way CoffeeScript is making
