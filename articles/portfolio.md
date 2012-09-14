@@ -12,7 +12,7 @@
 
    ![FIVE GUYS App Icon](https://lh4.ggpht.com/Z3ER1ciurb8t0KIvUYHPhnZh8EjuZxlLqmrHXur1UzNhuOY_Q45mxfXU71S4P1hIK1Y=w124)
 
-### [La Boulange Bakery](http://laboulangebaker.com/)
+### [La Boulange Bakery](http://laboulangebakery.com/)
 
   ![La Boulange App
 Icon](https://lh4.ggpht.com/fqIykTtIAYlu4e7VTGYZQ600RAaROk2rmznD67AlMp7tGdBXiZ76c71_S1cwG3MfFcY=w124)
