@@ -11,6 +11,21 @@
 ### [FIVE GUYS Burgers and Fries](http://www.fiveguys.com/)
 
    ![FIVE GUYS App Icon](https://lh4.ggpht.com/Z3ER1ciurb8t0KIvUYHPhnZh8EjuZxlLqmrHXur1UzNhuOY_Q45mxfXU71S4P1hIK1Y=w124)
+
+### [La Boulange Bakery](http://laboulangebaker.com/)
+
+  ![La Boulange App
+Icon](https://lh4.ggpht.com/fqIykTtIAYlu4e7VTGYZQ600RAaROk2rmznD67AlMp7tGdBXiZ76c71_S1cwG3MfFcY=w124)
+
+### [Mooyah Burgers and Fries](http://www.mooyah.com/)
+
+  ![Mooyah App
+Icon](https://lh3.ggpht.com/I1Og5PcATLlwR2ewH_39DOCi-d9xZY37ejPVpgi534qcxpkhlvXjwO66JvS7-rxa7AU=w124)
+
+### [Bullritos](http://www.bullritos.com/)
+
+  ![Bullritos App
+Icon](https://lh6.ggpht.com/irCTDd0QE0N3anlJ8ssK7ykmo5eNZ6n0v9dgl1Rc16Msb1vLHDx3qt2f_wPs9zLHFD0=w124)
    
 ###[Blue Talon Bistro](http://bluetalonbistro.com/)
 
