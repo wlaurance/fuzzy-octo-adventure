@@ -23,6 +23,13 @@ Map](https://lh4.ggpht.com/5xsIoE2gOeEydt2wbqCdQ0IKkQU1rYT2VupvjfirajIN3kWGpCH_u
 
 ## Websites / Webapps
 
+### [Osprey Watch](http://www.osprey-watch.org/)
+
+  ![Osprey
+Flying](http://farm8.staticflickr.com/7016/6647083819_6f5a95619f_b.jpg)
+
 
 ## Research
+
+### [NFC Research](https://github.com/wlaurance/NFC-Research)
 
