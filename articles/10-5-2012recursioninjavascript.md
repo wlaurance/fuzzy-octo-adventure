@@ -69,3 +69,12 @@ return. So this leads me to question why recursion and callback (async)
 styles would ever mix?
 
 ###Let the panic commence
+
+Initial thoughts. Callbacks and recursion would make
+[memoization](http://en.wikipedia.org/wiki/Memoization) interesting. In
+a way, we can "pretend" that returning is nonexistent and pass in a
+callback function where we would return the finished result. 
+
+For saving space, I will show examples in coffee only.
+
+WIP
