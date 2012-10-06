@@ -27,6 +27,6 @@ In the end of my mini experiment I lossed because of some greedy bets,
 but I conclude that the computerized games do act in a fashion
 concurrent with the statments above. My best bet is to save up for a 
 casino rather than spending my money at one because all in all it is
-called gambling and not winning.
+called gambling, not winning.
 
 ![Gwendolen Harleth at the Roulette Table](http://upload.wikimedia.org/wikipedia/commons/thumb/3/3f/Gwendolen_Harleth.jpg/321px-Gwendolen_Harleth.jpg)
