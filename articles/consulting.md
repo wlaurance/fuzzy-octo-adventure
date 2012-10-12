@@ -1,4 +1,3 @@
-
 {
 	"title" : "Consulting",
 	"date" : "10/02/2012",
