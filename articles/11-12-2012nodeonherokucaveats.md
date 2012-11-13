@@ -19,13 +19,11 @@ few months and I want to share with you a few caveats I have found.
 
 2. **heroku run migrate**. I am using TJ Holowaychuk's
    [node-migrate](https://github.com/visionmedia/node-migrate) for my
-   postgres migrations. When I do
-```
-heroku run migrate
-
-```
+   postgres migrations. When I do `heroku run migrate`
    the migrations do not actually happen. I have yet to figure out
    why. 
+3. (*using Glog*)[https://github.com/guyht/glog] Glog depends on being
+   able to run `git pull` from your article branch.
 
 
 The *typical* solution you will hear for #1 is Pingdom. Although it will
