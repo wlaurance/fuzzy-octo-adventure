@@ -17,12 +17,6 @@ few months and I want to share with you a few caveats I have found.
    happens that the slug is asleep, this clear function is never fired.
    From what I can tell, it actually will never fire again.
 
-2. **heroku run migrate**. I am using TJ Holowaychuk's
-   [node-migrate](https://github.com/visionmedia/node-migrate) for my
-   postgres migrations. When I do `heroku run migrate`
-   the migrations do not actually happen. I have yet to figure out
-   why. 
-
 The *typical* solution you will hear for #1 is Pingdom. Although it will
 work, it is pricey. Another factor to consider is why you chose Heroku
 in the first place. Inexpensive scalable web hosting. The reason why
