@@ -17,15 +17,6 @@ few months and I want to share with you a few caveats I have found.
    happens that the slug is asleep, this clear function is never fired.
    From what I can tell, it actually will never fire again.
 
-2. **heroku run migrate**. I am using TJ Holowaychuk's
-   [node-migrate](https://github.com/visionmedia/node-migrate) for my
-   postgres migrations. When I do `heroku run migrate`
-   the migrations do not actually happen. I have yet to figure out
-   why. 
-3. [**using Glog**](https://github.com/guyht/glog) Glog depends on being
-   able to run `git pull` from your article branch.
-
-
 The *typical* solution you will hear for #1 is Pingdom. Although it will
 work, it is pricey. Another factor to consider is why you chose Heroku
 in the first place. Inexpensive scalable web hosting. The reason why
@@ -35,4 +26,8 @@ their costs down, in turn keeping your costs down.
 I am leaning towards [Iron
 Worker](https://addons.heroku.com/iron_worker). You can get Five free
 hours as the starter plan.
+
+Using [Glog](https://github.com/guyht/glog) on heroku no longer seems to
+be a problem. At the time this post was written, Glog will not work out
+of the box on heroku, but with a few adjustments it works great.
    
