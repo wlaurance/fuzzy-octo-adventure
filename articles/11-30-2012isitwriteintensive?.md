@@ -15,4 +15,4 @@ We love mongoDB and nosql because we realize its place and that it is
 not a replacement for RDMS. However we still enjoy nosql memes and the
 frustrated haters.
 
-|<iframe class="youtube-player" type="text/html" width="640" height="385" src="http://www.youtube.com/embed/hEqQMLSXQlY" frameborder="0"></iframe>
+<iframe class="youtube-player" type="text/html" width="640" height="385" src="http://www.youtube.com/embed/hEqQMLSXQlY" frameborder="0"></iframe>
