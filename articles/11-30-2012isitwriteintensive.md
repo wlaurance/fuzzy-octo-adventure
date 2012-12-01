@@ -1,4 +1,5 @@
-{"title":"Is that write intensive","date":"11-30-2012"}
+{"title":"Is that write intensive?","date":"11-30-2012",
+"url":"Is-that-write-intensive"}
 
 Today I had a discussion with [@rfc2616](https://twitter.com/rfc2616),
 Rob Heittman, about mongoDB. We discussed replica sets, write concerns
