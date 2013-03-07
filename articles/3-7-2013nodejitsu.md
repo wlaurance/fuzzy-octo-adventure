@@ -18,3 +18,11 @@ balancer.
 How effective are Nodejitsu's drones? Lets find out
 
 <script src="https://gist.github.com/wlaurance/5109356.js"></script>
+
+There is definitely a linear increase in performance when the number of
+drones increase at least for the testing parameters.
+However 1 drone seems to get the job done pretty well.
+This test is extremely bad and doesn't prove much. More extensive tests
+would need to be done to form a better answer. The output of the request
+is {"title":"tempus"} and doesn't do anything with a database or
+anything.
