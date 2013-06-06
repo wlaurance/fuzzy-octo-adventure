@@ -11,7 +11,7 @@ body
       p title
   div.row-fluid
     div.container-fluid
-      div.offset1.span2
+      div.offset1.span1
         ul
           li
             img(src='http://www.gravatar.com/avatar/a45bb5be65f2d59d813697825cb48194')
@@ -30,7 +30,7 @@ body
             a(href="http://wlaurance.github.com/talks/", target="__blank") talks
           li
             a(href="mailto:w.laurance@gmail.com", target="__blank") contact
-      div.span9
+      div.span8
         - each article in articles
           - if ((typeof article.show_on_home_page === 'undefined') || article.show_on_home_page === true || (typeof single !== 'undefined' && single))
             div.article
