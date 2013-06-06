@@ -26,6 +26,8 @@ body
         a(href="http://wlaurance.github.com/talks/", target="__blank") talks
       li
         a(href="mailto:w.laurance@gmail.com", target="__blank") contact
+      li
+        a(href="https://gist.github.com/wlaurance/5725575", target="__blank") pgp key
   div.blog_title
     <a href='!{base_url}/'>!{title}</a>
   - each article in articles
@@ -61,7 +63,6 @@ body
   // Please do not remove
   div.footer
     a(href='http://github.com/guyht/glog') Powered by Glog
-    a(href="https://gist.github.com/wlaurance/5725575") Public Key
 
   - if (typeof analytics_code !== 'undefined' && analytics_code !== null)
     script(type='text/javascript')
