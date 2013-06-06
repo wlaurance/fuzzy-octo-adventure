@@ -2,12 +2,13 @@
 head
   title #{title}
   link(rel='stylesheet', href=base_url + '/css/bootstrap.css', type='text/css')
+  link(rel='stylesheet', href=base_url + '/css/main.css', type='text/css')
   link(rel='alternate', type='application/rss+xml', title=title, href=base_url + '/rss.xml')
   link(rel="shortcut icon", href="/img/favicon.png", type="image/x-icon")
 body
   div.row-fluid
-    div.offset6
-      p #{title}
+    div.offset6.title
+      h1 #{title}
   div.row-fluid
     div.container-fluid
       div.offset1.span1
