@@ -44,12 +44,12 @@ body
                       a(href="#{article.url}") !{article.title}
                 div.date
                   -if (show_author)
-                    !{article.author} - 
+                    !{article.author} -
                   !{article.date_str}
               div.body !{article.body}
 
               - if (typeof single !== 'undefined' && single && disqus_id !== -1)
-                script(type='text/javascript)
+                script(type='text/javascript')
                   /* * * CONFIGURATION VARIABLES: EDIT BEFORE PASTING INTO YOUR WEBPAGE * * */
                   var disqus_shortname = '!{disqus_id}'; // required: replace example with your forum shortname
 
