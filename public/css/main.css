@@ -6,3 +6,9 @@
 .title h1 {
   font-family: "Fuzzy Bear";
 }
+
+.center {
+  float: none;
+  margin-left: auto;
+  margin-right: auto;
+}
