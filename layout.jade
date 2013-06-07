@@ -40,8 +40,8 @@ body
               div.header
                 - if (typeof single !== 'undefined' && single)
                   div.title
-                    h3
-                      a(href=!{article.url}) !{article.title}
+                    h3=
+                      a(href="!{article.url}") !{article.title}
                 div.date
                   -if (show_author)
                     !{article.author} - 
