@@ -14,7 +14,8 @@ body
       div.offset1.span1
         ul.nav.nav-list
           li
-            img(src='http://www.gravatar.com/avatar/a45bb5be65f2d59d813697825cb48194')
+            a(href="/")
+              img(src='http://www.gravatar.com/avatar/a45bb5be65f2d59d813697825cb48194')
           li.nav-header
             p Content
           li
@@ -40,7 +41,7 @@ body
               div.header
                 - if (typeof single === 'undefined' || !single)
                   div.title
-                    h3
+                    h3.title
                       a(href="#{article.url}") !{article.title}
                 div.date
                   -if (show_author)
