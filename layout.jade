@@ -12,24 +12,25 @@ body
   div.row-fluid
     div.container-fluid
       div.offset1.span1
-        ul
+        ul.nav.nav-list
           li
             img(src='http://www.gravatar.com/avatar/a45bb5be65f2d59d813697825cb48194')
-          li
-            a(href='http://twitter.com/wlaurance', target='__blank') @wlaurance
+          li.nav-header
+            Content
           li
             a(href='/resume.pdf', target='__blank') resume
           li
             a(href='/2012/09/portfolio') portfolio
           li
-            a(href='https://github.com/wlaurance', target='__blank')
-              img(src="http://octodex.github.com/images/homercat.png", height=50, width=50)
-          li
             a(href='/2012/10/consulting') consulting
           li
             a(href="http://wlaurance.github.com/talks/", target="__blank") talks
+          li.nav-header
+            Contact Me
           li
             a(href="mailto:w.laurance@gmail.com", target="__blank") contact
+          li
+            a(href='http://twitter.com/wlaurance', target='__blank') @wlaurance
       div.span8
         - each article in articles
           - if ((typeof article.show_on_home_page === 'undefined') || article.show_on_home_page === true || (typeof single !== 'undefined' && single))
