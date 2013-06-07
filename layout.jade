@@ -38,8 +38,6 @@ body
           - if ((typeof article.show_on_home_page === 'undefined') || article.show_on_home_page === true || (typeof single !== 'undefined' && single))
             div.article
               div.header
-                div.title
-                  <a href='!{base_url}/!{article.url}/'>!{article.title}</a>
                 div.date
                   -if (show_author)
                     !{article.author} - 
