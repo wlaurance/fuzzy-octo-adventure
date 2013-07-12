@@ -17,3 +17,11 @@ Let's build a simple progress indicator with charm.
 ###Simple charm bar
 
 <script src="https://gist.github.com/wlaurance/5980479.js"></script>
+
+###HTTP charm bar
+
+<script src="https://gist.github.com/wlaurance/5980708.js"></script>
+
+###HTTP Disco Charm Bar
+
+WIP
