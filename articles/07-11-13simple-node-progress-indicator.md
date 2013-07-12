@@ -18,10 +18,24 @@ Let's build a simple progress indicator with charm.
 
 <script src="https://gist.github.com/wlaurance/5980479.js"></script>
 
+Using setTimeout to write a charm bar. Because charm bar writes using
+the stream interface, using a blocking while loop will not write.
+
 ###HTTP charm bar
 
 <script src="https://gist.github.com/wlaurance/5980708.js"></script>
 
+Download the latest release of node and tick the charm bar on each
+chunk. Because `req.on('data'...` makes many trips around the event
+loop, charm.write will actually write to the stream its piped to. In
+this case process.stdout.
+
 ###HTTP Disco Charm Bar
 
-WIP
+<script src="https://gist.github.com/wlaurance/5980789.js"></script>
+
+Same as the HTTP charm bar, but set the foreground color disco style!!
+
+
+There you go, a simple way to write progress indicators in node.
+
