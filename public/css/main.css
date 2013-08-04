@@ -1,9 +1,0 @@
-@font-face {
-  font-family: "Fuzzy Bear";
-  src: url("/fonts/FuzzyBear.ttf") format("truetype");
-}
-
-a, h1, h2, h3 {
-  font-family: "Fuzzy Bear";
-}
-
