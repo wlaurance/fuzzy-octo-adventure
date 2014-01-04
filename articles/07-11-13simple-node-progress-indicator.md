@@ -6,8 +6,6 @@
 
 Charm is a module used to write colors and cursor positions to a stream.
 
-![substacks's lucky charms](http://substack.net/images/charms.png)
-
 Let's build a simple progress indicator with charm.
 
 ```
