@@ -3,14 +3,14 @@
   "date" : "01/28/2014"
 }
 
-tl;dr
+####tl;dr
 
 By building a product or business in the open, there exists a permanent
 record of all the things that can be used to discredit copy cats.
 
 Please discuss on hacker news.
 
-end tl;dr
+####end tl;dr
 
 I used to worry about intellectual property for everything I did.
 In school, we read about the hard working men and women inventors from
