@@ -8,7 +8,7 @@
 By building a product or business in the open, there exists a permanent
 record of all the things that can be used to discredit copy cats.
 
-Please discuss on hacker news.
+Please discuss on [hacker news](https://news.ycombinator.com/item?id=7139099).
 
 ####end tl;dr
 
