@@ -12,23 +12,24 @@ unit, you can achieve the highest quality the human race has to offer.
 [shitter](http://en.wikipedia.org/wiki/Kopi_Luwak#Price_and_availability) can cost
 a pretty penny)
 
-When explain my coffee snob point of view, these are the 5 topics I cover.
+When I explain my coffee snob point of view, these are the 5 topics I cover.
 
 ###1. Get the freshest coffee possible.
 
   With out fresh coffee, you are wasting your time with brewing
   techniques and high quality equipment.
 
-  **Hands down** I recommend [BrewPony](http://brewpony.com/) to get fresh
+  **Hands down** I recommend [BrewPony](http://brewpony.com/) for fresh
   coffee. $30/mo gets you two awesome bags of coffee from a roaster in or
-  near Portland, Oregon.
+  near Portland, Oregon delivered to your mailbox less than a week after
+  roasting.
 
   ![Coffee](http://brewpony.com/wp-content/uploads/2014/01/ccc_coffee.jpg)
 
 ###2. Use a burr grinder
 
   You want to **shave** the beans, not chop them. I bought this hand crank
-  burr grinder off [Amazon](http://www.amazon.com/Hario-Coffee-Mill-Slim-Grinder/dp/B001804CLY/)
+  burr grinder from [Amazon](http://www.amazon.com/Hario-Coffee-Mill-Slim-Grinder/dp/B001804CLY/)
 
   ![grinder](/img/hand-burr-grinder.jpg)
 
