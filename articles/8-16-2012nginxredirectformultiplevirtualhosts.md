@@ -30,6 +30,7 @@ you have multiple virtual hosts setup on an nginx reverse proxy.
 
 
 /etc/nginx/sites-available/default
+
 ```
 server{
   server_name examplehost1.com;
