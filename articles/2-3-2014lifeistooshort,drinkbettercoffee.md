@@ -58,6 +58,7 @@ Out of all these steps, 1. is the most important. But once you have the
 best coffee beans possible, steps 2 through 5 become very important!
 
 Inspiration for this article is fueled by my coffee addiction and
-watching videos like this one from [@mikeal](https://twitter.com/mikeal)
+watching videos like this one from
+[@mikeal](https://twitter.com/mikeal).
 
 <iframe src="//player.vimeo.com/video/52900095" width="500" height="281" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen></iframe> <p><a href="http://vimeo.com/52900095">Perfect Coffee</a> from <a href="http://vimeo.com/mikeal">mikeal</a> on <a href="https://vimeo.com">Vimeo</a>.</p>
