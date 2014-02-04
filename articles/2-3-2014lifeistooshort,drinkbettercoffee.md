@@ -14,7 +14,7 @@ a pretty penny)
 
 When I explain my coffee snob point of view, these are the 5 topics I cover.
 
-###1. Get the freshest coffee possible.
+###1. Get the freshest coffee possible
 
   With out fresh coffee, you are wasting your time with brewing
   techniques and high quality equipment.
@@ -29,7 +29,7 @@ When I explain my coffee snob point of view, these are the 5 topics I cover.
 ###2. Use a burr grinder
 
   You want to **shave** the beans, not chop them. I bought this hand crank
-  burr grinder from [Amazon](http://www.amazon.com/Hario-Coffee-Mill-Slim-Grinder/dp/B001804CLY/)
+  burr grinder from [Amazon](http://www.amazon.com/Hario-Coffee-Mill-Slim-Grinder/dp/B001804CLY/).
 
   ![grinder](/img/hand-burr-grinder.jpg)
 
@@ -56,3 +56,8 @@ When I explain my coffee snob point of view, these are the 5 topics I cover.
 
 Out of all these steps, 1. is the most important. But once you have the
 best coffee beans possible, steps 2 through 5 become very important!
+
+Inspiration for this article is fueled by my coffee addiction and
+watching videos like this one from [@mikeal](https://twitter.com/mikeal)
+
+<iframe src="//player.vimeo.com/video/52900095" width="500" height="281" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen></iframe> <p><a href="http://vimeo.com/52900095">Perfect Coffee</a> from <a href="http://vimeo.com/mikeal">mikeal</a> on <a href="https://vimeo.com">Vimeo</a>.</p>
