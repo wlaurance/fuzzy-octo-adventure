@@ -50,7 +50,7 @@ When I explain my coffee snob point of view, these are the 5 topics I cover.
 ###5. Use the correct water temperature 
 
   Generally, 200F or 93C is the perfect temperature. Invest in a good
-  electric like the [Bonavita 1-Liter](http://www.amazon.com/Bonavita-Variable-Temperature-Electric-Gooseneck/dp/B005YR0F40/).
+  electric kettle like the [Bonavita 1-Liter](http://www.amazon.com/Bonavita-Variable-Temperature-Electric-Gooseneck/dp/B005YR0F40/).
 
   ![bonvita](/img/bonavita.jpg)
 
